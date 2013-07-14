@@ -1,4 +1,4 @@
-list_sticky_scroll_trick
+ListView Sticky Scroll Trick 
 ========================
 
 This is a trick similar to the one exposed by Roman Nurik and Nick Butcher:
